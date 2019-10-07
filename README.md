@@ -26,3 +26,34 @@ opens youtube
 pens amazon
 can search anything in google
 What's up
+# installation
+use Python 3.6 or lower
+install following packages using pip:-
+certifi
+chardet
+gTTS
+gTTS-token
+idna
+PyAudio
+pytz
+requests
+SpeechRecognition
+urllib3
+beautifulsoup4
+pyttsx3
+webbrowser
+smtplib
+
+# installation format
+open cmd
+type pip
+if it is giving an error saying pip is not a command , watch the following vedio to resolve the error
+https://www.youtube.com/watch?v=DhesxLA2qEc&t=160s
+
+else
+just type pip install {package name}
+for ex
+pip install requests
+in this order install all the packages listed above
+
+
