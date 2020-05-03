@@ -27,22 +27,8 @@ pens amazon
 can search anything in google
 What's up
 # installation
-use Python 3.6 or lower
-install following packages using pip:-
-certifi
-chardet
-gTTS
-gTTS-token
-idna
-PyAudio
-pytz
-requests
-SpeechRecognition
-urllib3
-beautifulsoup4
-pyttsx3
-webbrowser
-smtplib
+* use Python 3.6 or lower
+* pip3 install -r requirements.txt or pip install -r requirements.txt based on your pip version
 
 # installation format
 open cmd
