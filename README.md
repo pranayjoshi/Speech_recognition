@@ -18,7 +18,7 @@
 * can search anything in google
 What's up
 # installation
-* use Python 3.6 or lower
+* use Python 3 or above
 * ``` pip3 install -r requirements.txt``` or ```pip install -r requirements.txt``` based on your pip version
 
 # installation format
