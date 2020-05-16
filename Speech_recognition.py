@@ -1,4 +1,9 @@
-#pranays assistant
+"""Project name = Pranay Assistant(pj assist)
+    Name = pj assist
+    Developer Name = Pranay Joshi
+    Version = 1.0
+    Old modules = Speech recognition, GTTs, PyAudio, os, re, webbrowser, smtplib, certifi, requests, pyttsx3 etc.
+    """
 import speech_recognition as sr
 import os
 import re
