@@ -1,7 +1,7 @@
 # Speech_recognition
 **python desktopAssistant.py**
-## This is a Speech Recognizer by Pranay Joshi**
-**It isDesktop Assistantjarvis like desktop assistant written in Python which uses google's speech-to-text library to process voice input.**
+## This is a Speech Recognizer by Pranay Joshi
+**It is Desktop Assistant jarvis like desktop assistant written in Python which uses google's speech-to-text library to process voice input.**
 # Supported commands :
 
 * Open reddit subreddit : Opens the subreddit in default browser.
