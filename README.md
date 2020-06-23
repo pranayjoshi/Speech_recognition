@@ -19,6 +19,8 @@
 What's up
 # installation
 * use Python 3 or above
+* run ```git clone https://github.com/pranayteaches/speech_recognition_V2```.
+* than run ```cd speech_recognition_V2```.
 * ``` pip3 install -r requirements.txt``` or ```pip install -r requirements.txt``` based on your pip version
 
 # installation format
