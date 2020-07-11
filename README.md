@@ -1,7 +1,9 @@
 # Speech_recognition
 **python desktopAssistant.py**
 
+# Current stable versions
 [![Alt v2.0](https://img.shields.io/badge/release--2.0-ok-green.svg)](https://github.com/pranayteaches/Speech_recognition/releases/tag/2.0)  [![Alt v1.0](https://img.shields.io/badge/release--1.0-ok-green.svg)](https://github.com/pranayteaches/Speech_recognition/releases/tag/1.0)  
+
 ## This is a Speech Recognizer by Pranay Joshi
 **It is Desktop Assistant jarvis like desktop assistant written in Python which uses google's speech-to-text library to process voice input.**
 # Supported commands :
@@ -19,6 +21,7 @@
 * open amazon
 * can search anything in google
 What's up
+
 # installation
 * use Python 3 or above
 * run ```git clone https://github.com/pranayteaches/speech_recognition_V2```.
