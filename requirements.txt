@@ -12,3 +12,10 @@ beautifulsoup4
 pyttsx3
 webbrowser
 smtplib
+google
+word2number
+wikipedia
+time
+json
+datetime
+ctime
