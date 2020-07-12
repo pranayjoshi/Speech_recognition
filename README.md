@@ -1,6 +1,9 @@
 # Speech_recognition(Indo)
 **Indo :- A mini speech Recognition System**
-
+![Indo Logo](/image/logo.png)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 ## Current stable versions
 [![Alt v2.0](https://img.shields.io/badge/release--2.0-ok-green.svg)](https://github.com/pranayteaches/Speech_recognition/releases/tag/2.0)  [![Alt v1.0](https://img.shields.io/badge/release--1.0-ok-green.svg)](https://github.com/pranayteaches/Speech_recognition/releases/tag/1.0) 
 
