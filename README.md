@@ -1,7 +1,7 @@
 # Speech_recognition(Indo)
 **Indo :- A mini speech Recognition System**
 <p align="center">
-  <img width="460" height="375" src="/Image/logo.JPG">
+  <img width="360" height="280" src="/Image/logo.JPG">
 </p>
 
 ## Current stable versions
